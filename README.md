@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I’m a second-year engineering student passionate
 ## 🔥 Current Projects
 
 - **[Sentiment Analysis Chatbot](https://github.com/manishtandurkar/Sentiment-analysis-chatbot)**: A chatbot built using machine learning and NLP techniques to determine user sentiment (positive, negative, neutral).
-- **[Smart Attendance App](https://github.com/manishtandurkar/Smart-Attendance-App)**: A mobile application that uses geofencing to automate attendance tracking, ensuring accurate and secure location-based check-ins.
+- **[Smart Attendance App](https://github.com/manishtandurkar/Smart-attendance)**: A mobile application that uses geofencing to automate attendance tracking, ensuring accurate and secure location-based check-ins.
 
 ## 📈 GitHub Stats
 
