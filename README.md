@@ -19,16 +19,18 @@ Welcome to my GitHub profile. I’m a second-year engineering student passionate
 ## 🔥 Current Projects
 
 - **[Sentiment Analysis Chatbot](https://github.com/manishtandurkar/Sentiment-analysis-chatbot)**: A chatbot built using machine learning and NLP techniques to determine user sentiment (positive, negative, neutral).
+- **[Smart Attendance App](https://github.com/manishtandurkar/Smart-Attendance-App)**: A mobile application that uses geofencing to automate attendance tracking, ensuring accurate and secure location-based check-ins.
 
 ## 📈 GitHub Stats
 
 ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishtandurkar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📫 How to Reach Me
+## 👯‍👥 How to Reach Me
 
-- 📧 Email: [manish03.svt@gmail.com](mailto:manish03.svt@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/manishtandurkar](https://www.linkedin.com/in/manishtandurkar/)
+- 💎 Email: [manish03.svt@gmail.com](mailto:manish03.svt@gmail.com)
+- 🛠️ LinkedIn: [linkedin.com/in/manishtandurkar](https://www.linkedin.com/in/manishtandurkar/)
 
 ---
 
 Feel free to explore my repositories, contribute to open-source, or reach out to me if you’re interested in collaborating on projects. 🚀
+
